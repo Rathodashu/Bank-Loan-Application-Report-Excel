@@ -1,6 +1,6 @@
 # Bank-Loan-Application-Report-Excel
 ## MS-Excel
-## Project Repot Dashboard Link:-  https://1drv.ms/x/c/8F26B512D45474B7/EaEd-Av_LFxLmDvxZiPGVmQB0VakBHQKblf01rbILf-ZLQ?e=FHfH10
+## Project Repot Dashboard Link:-  [https://1drv.ms/x/c/8F26B512D45474B7/EaEd-Av_LFxLmDvxZiPGVmQB0VakBHQKblf01rbILf-ZLQ?e=FHfH10](https://1drv.ms/x/c/8F26B512D45474B7/EaEd-Av_LFxLmDvxZiPGVmQB0VakBHQKblf01rbILf-ZLQ?e=29EQHF)
 
 ✅ Bank Loan Report Dashboard – MS Excel Project Highlights
 📊 Built an end-to-end interactive Bank Loan Report dashboard using Microsoft Excel, enabling management to monitor key lending KPIs and portfolio performance.
